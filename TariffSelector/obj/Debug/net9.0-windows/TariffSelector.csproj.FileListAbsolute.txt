@@ -1,0 +1,14 @@
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\obj\Debug\net9.0-windows\TariffSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\obj\Debug\net9.0-windows\TariffSelector.AssemblyInfoInputs.cache
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\obj\Debug\net9.0-windows\TariffSelector.AssemblyInfo.cs
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\obj\Debug\net9.0-windows\TariffSelector.csproj.CoreCompileInputs.cache
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\bin\Debug\net9.0-windows\TariffSelector.exe
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\bin\Debug\net9.0-windows\TariffSelector.deps.json
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\bin\Debug\net9.0-windows\TariffSelector.runtimeconfig.json
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\bin\Debug\net9.0-windows\TariffSelector.dll
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\bin\Debug\net9.0-windows\TariffSelector.pdb
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\obj\Debug\net9.0-windows\TariffSelector.dll
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\obj\Debug\net9.0-windows\refint\TariffSelector.dll
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\obj\Debug\net9.0-windows\TariffSelector.pdb
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\obj\Debug\net9.0-windows\TariffSelector.genruntimeconfig.cache
+C:\Users\Йохан\Desktop\трекер фінансів\TariffSelector\obj\Debug\net9.0-windows\ref\TariffSelector.dll
